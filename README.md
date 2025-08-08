@@ -8,12 +8,22 @@ A modern, responsive web layout built using HTML and CSS. This project demonstra
 
 ## 📁 Project Structure
 
----repo/
+--- 
+**repo**/
     |_ined.html
     |_style.css
     |_responsive.css
 
-    
+
+## Preview
+
+---
+![desktoponly](./img/img.png)
+
+---
+![mobile](./img/img1.png)
+![mobile](./img/img2.png)
+
 ## 🚀 Features
 
 - ✅ Fully responsive layout for desktop and mobile
@@ -37,5 +47,5 @@ A modern, responsive web layout built using HTML and CSS. This project demonstra
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/responsive-project.git
-   cd responsive-project
+   git clone https://github.com/SHUBBHAM-KUMARR/day4_elevate_labs_task_4.git
+        
